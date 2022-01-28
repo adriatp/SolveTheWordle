@@ -1,3 +1,14 @@
-1.	Arreglar les paraules proposades amb una o més lletres repetides.
+[ X ] - Arreglar les paraules proposades amb una o més lletres repetides
 
-	* 
+[   ] - Si queden incorrectes cal provar una paraula que contingui el màxim de lletres no provades presents en les lletres de les paraules_possibles
+
+
+	1. Agafem les lletres de les paraules possibles que encara no s'han provat
+	
+	2. 
+	
+	[   ] - De les lletres que encara no s'han provat provar la paraula que conté més d'aquestes lletres
+
+[   ] - Si només queden misplaced provar aleatòriament de paraules_possibles
+
+	[   ] - 
